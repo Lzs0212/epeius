@@ -22,7 +22,7 @@ let addresses = [
 
 let sub = ''; 
 let subconverter = 'url.v1.mk';// clash订阅转换后端，目前使用肥羊的订阅转换功能。自带虚假节点信息防泄露
-let subconfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"; //订阅配置文件
+let subconfig = "https://raw.githubusercontent.com/Lzs0212/clash-gz/refs/heads/main/Clash-LIAN.ini"; //订阅配置文件
 let RproxyIP = 'false';
 
 let addressesapi = [];
